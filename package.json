@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/paullouismas/json-database-manager.git"
   },
   "author": "Mas Paul-Louis",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/paullouismas/json-database-manager/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/paullouismas/json-database-manager/",
   "devDependencies": {
     "@types/chai": "^4.2.14",
     "@types/mocha": "^8.0.4",
